@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/boss.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/scoreScript.cs" Line="23" Column="14" />
+      <File FileName="Assets/Scripts/timer.cs" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/hope.cs" Line="6" Column="26" />
+      <File FileName="Assets/Scripts/boss.cs" Line="8" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
